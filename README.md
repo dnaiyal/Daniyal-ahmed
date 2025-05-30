@@ -1,3 +1,5 @@
+![logo](https://github.com/dnaiyal/Daniyal-ahmed/blob/main/Black%20and%20Red%20Simple%20Tips%20How%20To%20Be%20A%20Programmer%20Youtube%20Thumbnail.png)
+
 <h1 align="center">Hi 👋, I'm Daniyal Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
